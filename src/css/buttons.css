@@ -1,0 +1,53 @@
+
+
+.btn {
+
+    font-size:inherit ;
+    outline: none;
+    background:none;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+
+.btnAdd{
+    color: white;
+    background-color: hsl(200, 100%, 50%);
+}
+
+
+.btnAdd:hover{
+    background-color: hsl(200, 100%, 35%);
+}
+
+.btn_edit{
+    color: white;
+    background-color: hsl(190, 100%, 50%);
+}
+
+
+.btn_edit:hover{
+    background-color: hsl(190, 100%, 35%);
+}
+
+.btn_danger{
+    color: white;
+    background-color: hsl(0, 100%, 50%);
+}
+
+.btn_search{
+    color: white;
+    background-color: hsl(0, 100%, 0%);
+}
+
+
+.btn_danger:hover{
+    background-color: hsl(0, 100%, 35%);
+}
+
+.btn__primary{
+    color: white;
+    background-color: hsl(209, 72%, 47%);
+} 

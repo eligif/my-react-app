@@ -1,0 +1,31 @@
+@import-normalize;
+@import './recepie-list.css';
+@import 'fonts.css';
+@import 'buttons.css';
+@import 'recipe.css';
+@import 'ingredient-grid.css';
+
+* ,*::before,*::after{
+
+  font-family: Gotham Rounded;
+  box-sizing: border-box;
+}
+
+
+
+html{
+
+  font-size: 15px;
+}
+body{
+
+  margin: 0;
+  padding: 0;
+}
+
+.mr-1{
+
+  margin-right: 15px;
+
+}
+

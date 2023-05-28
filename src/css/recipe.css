@@ -1,0 +1,42 @@
+.recipe{
+
+}
+
+.recipe__header{
+
+
+}
+
+.recipe__title{
+    margin: 0;
+    font-size: 1.75rem;
+}
+
+.recipe__row{
+
+    margin-top: 10px;
+
+}
+
+.recipe__label{
+
+    margin-right: 5px;
+}
+
+.recipe__value{
+
+    font-weight: 300;
+}
+
+.recipe__value--intented{
+
+    margin-top: 10px;
+    margin-left: 20px;
+
+    
+}
+
+.recipe__value__instructions{
+
+    white-space: pre-wrap;
+}
