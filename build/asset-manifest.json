@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4483c2e.css",
+    "main.js": "/static/js/main.274c29b9.js",
+    "static/media/GothamRounded-Book.woff": "/static/media/GothamRounded-Book.e896dcaa7b15c4cc68b1.woff",
+    "static/media/GothamRounded-Bold.woff": "/static/media/GothamRounded-Bold.c934e208dc098861b5ed.woff",
+    "static/media/GothamRounded-Light.woff": "/static/media/GothamRounded-Light.01d0d0553007d6d77ee0.woff",
+    "static/media/GothamRounded-Book.woff2": "/static/media/GothamRounded-Book.4a8c1d2601a0b29b6ce1.woff2",
+    "static/media/GothamRounded-Bold.woff2": "/static/media/GothamRounded-Bold.dd36aa677ebacfedaef5.woff2",
+    "static/media/GothamRounded-Light.woff2": "/static/media/GothamRounded-Light.c27e2b4701d6b86221be.woff2",
+    "index.html": "/index.html",
+    "main.f4483c2e.css.map": "/static/css/main.f4483c2e.css.map",
+    "main.274c29b9.js.map": "/static/js/main.274c29b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4483c2e.css",
+    "static/js/main.274c29b9.js"
+  ]
+}
